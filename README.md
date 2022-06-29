@@ -1,3 +1,3 @@
 # odin recipes
 
-A basic project for recipes for Odin foundations course.
+A basic project for Odin foundations course.
